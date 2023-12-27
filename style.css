@@ -501,6 +501,17 @@ body::selection {
   overflow: hidden;
 }
 
+.mega_sena {
+  color: #fff;
+  list-style: none;
+  text-decoration: none;
+}
+
+.mega_sena:hover {
+color:#1ae2e9;
+transition: 1s;
+}
+
 .project-card-1 {
   background: linear-gradient(180deg, #16191e, #252628);
 }
